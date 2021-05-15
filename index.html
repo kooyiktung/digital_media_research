@@ -89,7 +89,10 @@
 
         <script type="text/javascript">
         function randomlinks(){
-          var myrandom=Math.round(Math.random()*7)
+//           求 [a,b]之间的随机整数
+//           Math.floor(Math.random()*(b-a+1)+a)
+          var myrandom=Math.floor(Math.random()*8)
+//           var myrandom=Math.round(Math.random()*7)
 //           var myrandom=parseInt(Math.random()*8-1)
           var links=new Array()
           links[0]="https://org.modao.cc/app/koe2sra2lua1nm?simulator_type=long_page"
