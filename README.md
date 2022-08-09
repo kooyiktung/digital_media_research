@@ -3,3 +3,5 @@
 This repo is for survey data collection for the coursework AIDM7460_Digital Media Research. 
 All the online experiment treatment and instruments remain unchanged. 
 The site is released as: https://kooyiktung.github.io/digital_media_research/
+
+This research work was ended in Jun 2021.
